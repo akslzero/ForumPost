@@ -1,6 +1,6 @@
 # Forum Post
 
-Aplikasi forum sosial dengan fitur lengkap.
+Aplikasi forum sosial simpel.
 
 ## Fitur
 
@@ -32,3 +32,11 @@ Aplikasi forum sosial dengan fitur lengkap.
 - JWT Authentication
 - Socket.io
 - Multer (file upload)
+
+## Preview
+
+![Post Menu](images/g1.png)
+
+![Search Menu](images/g2.png)
+
+![Comment](images/g3.png)
