@@ -1,6 +1,6 @@
 # Forum Post
 
-Aplikasi forum sosial simpel.
+Website aplikasi forum sederhana.
 
 ## Fitur
 
@@ -11,7 +11,6 @@ Aplikasi forum sosial simpel.
 - ✅ Real-time updates dengan Socket.io
 - ✅ Search/pencarian post
 - ✅ Responsive design (mobile & desktop)
-- ✅ Dark mode support
 
 ## Tech Stack
 
